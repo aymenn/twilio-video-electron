@@ -27,7 +27,7 @@
     "twilio-video": "2.0.0-beta14"
   },
   "devDependencies": {
-    "electron": "^6.0.7",
+    "electron": "^9.1.0",
     "prismjs": "^1.6.0",
     "stackblur-canvas": "^1.4.0",
     "jquery": "^3.4.1",
